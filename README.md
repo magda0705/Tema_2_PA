@@ -1,5 +1,4 @@
 # Tema_2_PA
-# Simulator de Competiții Sportive
 
 Acest proiect simulează competiții între echipe, procesând datele echipei, simulând meciuri și calculând scoruri. 
 
